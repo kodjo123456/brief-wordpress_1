@@ -1,0 +1,428 @@
+# Translation of Plugins - Instant Images &#8211; One Click Image Uploads from Unsplash, Openverse, Pixabay and Pexels - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Instant Images &#8211; One Click Image Uploads from Unsplash, Openverse, Pixabay and Pexels - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-10 16:44:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Instant Images &#8211; One Click Image Uploads from Unsplash, Openverse, Pixabay and Pexels - Stable (latest release)\n"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Pexels"
+msgstr "Pexels"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Pixabay"
+msgstr "Pixabay"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Openverse"
+msgstr "Openverse"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "Unsplash"
+msgstr "Unsplash"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "photo"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "instant images"
+msgstr "instant images"
+
+#: build/js/editor/block/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "image"
+
+#: build/js/editor/block/block.json
+msgctxt "block title"
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#: admin/includes/settings/licenses.php:12
+msgid "Licenses"
+msgstr "Licences"
+
+#: admin/admin.php:299
+msgid "Activate License"
+msgstr "Activer la License"
+
+#: admin/admin.php:297
+msgid "Deactivate License"
+msgstr "Désactiver la licence"
+
+#: admin/admin.php:291
+msgid "Purchase License"
+msgstr "Acheter une licence"
+
+#: admin/admin.php:291
+msgid "Valid License Key Required"
+msgstr "Clé de licence valide nécessaire"
+
+#: admin/admin.php:282
+msgid "Enter License Key"
+msgstr "Saisir la clé de licence"
+
+#: api/settings.php:63
+msgid "Unable to save settings."
+msgstr "Impossible d’enregistrer les réglages."
+
+#: api/settings.php:57
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: admin/includes/settings/header.php:23
+msgid "Jump to Section"
+msgstr "Aller à la section"
+
+#: admin/includes/settings/header.php:18 instant-images.php:485
+msgid "Get Images"
+msgstr "Obtenir des images"
+
+#: admin/includes/settings.php:30
+#: admin/includes/settings/general-settings.php:12
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: admin/includes/settings/save.php:14
+msgid "Settings Saved"
+msgstr "Réglages enregistrés"
+
+#: admin/includes/settings/header.php:26
+msgid "Plugin Version:"
+msgstr "Version de l’extension :"
+
+#: instant-images.php:358
+msgid "Description"
+msgstr "Description"
+
+#: instant-images.php:351
+msgid "View on"
+msgstr "Voir sur"
+
+#: api/download.php:107
+msgid "Image file does not exist on remote server or there was an error accessing the file."
+msgstr "Le fichier d’image n’existe pas sur le serveur distant ou il y a eu une erreur d’accès au fichier."
+
+#: instant-images.php:384
+msgid "Advertisement"
+msgstr "Annonce"
+
+#: instant-images.php:383
+msgid "Ad"
+msgstr "Publicité"
+
+#: instant-images.php:382
+msgid "Error"
+msgstr "Erreur"
+
+#: instant-images.php:381
+msgid "Check your API keys are valid and the Default Provider set under the Instant Images settings panel."
+msgstr "Vérifiez que vos clés d’API sont valides et que le fournisseur par défaut est défini dans les réglages d’Instant Images."
+
+#: instant-images.php:366
+msgid "Close"
+msgstr "Fermer"
+
+#: instant-images.php:365
+msgid "Close Window"
+msgstr "Fermer la fenêtre"
+
+#: instant-images.php:364
+msgid "Add Photo Attribution"
+msgstr "Ajouter une attribution de photo"
+
+#: instant-images.php:350
+msgid "Clear Search"
+msgstr "Effacer la recherche"
+
+#: instant-images.php:348
+msgid "Search"
+msgstr "Rechercher"
+
+#: instant-images.php:346
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: instant-images.php:345
+msgid "Views"
+msgstr "Vues"
+
+#: instant-images.php:367
+msgid "Verify"
+msgstr "Vérifier"
+
+#: admin/includes/settings.php:110 admin/includes/settings.php:326
+msgid "API Key"
+msgstr "Clé d’API"
+
+#: admin/includes/settings.php:93
+msgid "API Keys"
+msgstr "Clés d’API"
+
+#: admin/includes/settings.php:74
+msgid "Media Tab"
+msgstr "Onglet média"
+
+#: api/download.php:42
+msgid "You do not have sufficient access to upload images with Instant Images."
+msgstr "Vous ne disposez pas d’un accès suffisant pour téléverser des images avec Instant Images."
+
+#: admin/includes/settings.php:332
+msgid "API key has been set via site constant."
+msgstr "La clé d’API a été définie via la constante du site."
+
+#: admin/includes/settings.php:327
+msgid "Get Key"
+msgstr "Obtenir une clé"
+
+#: instant-images.php:380
+msgid "An unknown error has occured while accessing {provider}"
+msgstr "Une erreur est survenue lors de l’accès à {provider}"
+
+#: instant-images.php:379
+msgid "Reset Default Key"
+msgstr "Réinitialiser la clé par défaut"
+
+#: instant-images.php:378
+msgid "Get API Key"
+msgstr "Obtenir une clé d’API"
+
+#: instant-images.php:369
+msgid "The API Key is Invalid"
+msgstr "La clé d’API est non valide"
+
+#: instant-images.php:368
+msgid "Enter API Key"
+msgstr "Saisir la clé d’API"
+
+#: instant-images.php:339
+msgid "Nothing matched your search query."
+msgstr "Aucune image ne correspond à votre requête."
+
+#: admin/includes/settings.php:56
+msgid "Default Image Provider"
+msgstr "Fournisseur d’images par défaut"
+
+#: admin/includes/settings/our-plugins.php:14
+msgid "Check out some of our other WordPress plugins."
+msgstr "Découvrez quelques-unes de nos autres extensions pour WordPress."
+
+#: instant-images.php:376
+msgid "The API rate limit has been exceeded for this image provider. Please add a new API key or try again later."
+msgstr "La limite de débit de l’API a été dépassée pour ce fournisseur d’images. Veuillez ajouter une nouvelle clé d’API ou réessayer plus tard."
+
+#: instant-images.php:375
+msgid "No image provider or destination URL set."
+msgstr "Aucun fournisseur d’images ou URL de destination défini."
+
+#: instant-images.php:374
+msgid "An internal server error has occured - please try again."
+msgstr "Une erreur de serveur interne est survenue - Veuillez réessayer."
+
+#: instant-images.php:373
+msgid "The Instant Images Proxy is not configured for the requested provider."
+msgstr "Le proxy d’Instant Images n’est pas configuré pour le fournisseur demandé."
+
+#: instant-images.php:372
+msgid "Missing API parameter - we are unable to complete the request at this time."
+msgstr "Paramètre d’API manquant : nous ne sommes pas en mesure de traiter la requête pour le moment."
+
+#: instant-images.php:371
+msgid "The API key is not valid for this provider - enter a new API Key and try again."
+msgstr "La clé d’API n’est pas valide pour ce fournisseur - Saisissez une nouvelle clé d’API et réessayez."
+
+#: instant-images.php:370
+msgid "API key has been successfully validated!"
+msgstr "La clé de l’API a bien été validée !"
+
+#: instant-images.php:326
+msgid "Access to images from Pexels requires a valid API key. API keys are available for free, just sign up for an account at Pexels, enter your API key below and you're good to go!"
+msgstr "L’accès aux images depuis Pexels nécessite une clé d’API valide. Les clés d’API sont disponibles gratuitement, créez simplement un compte chez Pexels, saisissez votre clé d’API ci-dessous et choisissez vos photos !"
+
+#: instant-images.php:321
+msgid "Access to images from Pixabay requires a valid API key. API keys are available for free, just sign up for an account at Pixabay, enter your API key below and you're good to go!"
+msgstr "L’accès aux images depuis Pixabay nécessite une clé d’API valide. Les clés d’API sont disponibles gratuitement, créez simplement un compte chez Pixabay, saisissez votre clé d’API ci-dessous et et choisissez vos photos !"
+
+#: instant-images.php:316
+msgid "Access to images from Unsplash requires a valid API key. API keys are available for free, just sign up for a Developer account at Unsplash, enter your API key below and you're good to go!"
+msgstr "L’accès aux images depuis Unsplash nécessite une clé d’API valide. Les clés d’API sont disponibles gratuitement, créez un compte développeur/développeuse sur Unsplash, saisissez votre clé d’API ci-dessous et et choisissez vos photos !"
+
+#: admin/includes/settings.php:282
+msgid "Default Provider"
+msgstr "Fournisseur par défaut"
+
+#: instant-images.php:359
+msgid "Edit Attachment Details"
+msgstr "Modifier les détails du fichier joint"
+
+#: instant-images.php:330
+msgid "There was an error accessing the WP REST API."
+msgstr "Une erreur s’est produite lors de l’accès à l’API REST WP."
+
+#: api/download.php:206
+msgid "There was an error getting image details from the request, please try again."
+msgstr "Une erreur est survenue lors de l’obtention des détails de l’image à partir de la requête, veuillez réessayer."
+
+#: api/download.php:125
+msgid "Image download failed, please try again. Errors:"
+msgstr "Le téléversement de l’image a échoué, veuillez réessayer. Erreurs :"
+
+#: instant-images.php:338
+msgid "Still resizing..."
+msgstr "Toujours en cours de redimensionnement…"
+
+#: instant-images.php:337
+msgid "Creating image sizes..."
+msgstr "Création des tailles d’image…"
+
+#: instant-images.php:331
+msgid "Instant Images requires access to the WP REST API via <u>POST</u> request to fetch and upload images to your media library."
+msgstr "Instant Images nécessite un accès à l’API REST WP via une requête <u>POST</u> pour récupérer et téléverser des images dans votre médiathèque."
+
+#: instant-images.php:329
+msgid "There was no response while attempting to the download image to your server. Check your server permission and max file upload size or try again"
+msgstr "Il n’y a eu aucune réponse lors de la tentative de téléversement de l’image sur votre serveur. Vérifiez les droits de votre serveur et la taille maximale de téléversement de fichier ou réessayez."
+
+#: instant-images.php:363
+msgid "Upload"
+msgstr "Téléverser"
+
+#: instant-images.php:355
+msgid "Title"
+msgstr "Titre"
+
+#: instant-images.php:353
+msgid "Insert Into Post"
+msgstr "Insérer dans la publication"
+
+#: instant-images.php:347
+msgid "Search for Toronto + Coffee etc..."
+msgstr "Rechercher Bordeaux + Café etc…"
+
+#: instant-images.php:352
+msgid "Set as Featured Image"
+msgstr "Définir comme image mise en avant"
+
+#: instant-images.php:362
+msgid "Save"
+msgstr "Enregistrer"
+
+#: instant-images.php:361
+msgid "Cancel"
+msgstr "Annuler"
+
+#: instant-images.php:357
+msgid "Caption"
+msgstr "Légende"
+
+#: instant-images.php:356
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+#: instant-images.php:354
+msgid "Filename"
+msgstr "Nom du fichier"
+
+#: instant-images.php:360
+msgid "Edit Image Details"
+msgstr "Modifier les détails de l’image"
+
+#: instant-images.php:335
+msgid "Click to Upload"
+msgstr "Cliquez pour téléverser"
+
+#: admin/includes/settings/whats-new.php:12
+msgid "What's New"
+msgstr "Quoi de neuf"
+
+#: instant-images.php:343 build/block/index.js:1 build/instant-images.js:1
+#: build/media-modal/index.js:1 build/plugin-sidebar/index.js:1
+msgid "Oldest"
+msgstr "Plus anciennes"
+
+#: instant-images.php:344 build/block/index.js:1 build/instant-images.js:1
+#: build/media-modal/index.js:1 build/plugin-sidebar/index.js:1
+msgid "Popular"
+msgstr "Populaires"
+
+#: instant-images.php:334
+msgid "Click Image to Upload"
+msgstr "Cliquer sur l’image pour la téléverser"
+
+#: instant-images.php:333
+msgid "View All Photos by"
+msgstr "Voir toutes les photos par"
+
+#: instant-images.php:336
+msgid "Downloading image..."
+msgstr "Téléversement de l’image…"
+
+#. Author URI of the plugin
+#: instant-images.php
+msgid "https://connekthq.com"
+msgstr "https://connekthq.com"
+
+#. Author of the plugin
+#: instant-images.php
+msgid "Darren Cooney"
+msgstr "Darren Cooney"
+
+#. Plugin URI of the plugin
+#: instant-images.php
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr "https://connekthq.com/plugins/instant-images/"
+
+#. Plugin Name of the plugin
+#: instant-images.php admin/admin.php:152 admin/admin.php:169
+#: instant-images.php:300
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#: api/download.php:189
+msgid "Image successfully uploaded to the media library!"
+msgstr "Image bien téléversée dans la médiathèque !"
+
+#: admin/includes/header.php:18 instant-images.php:485
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/includes/settings/our-plugins.php:13
+msgid "Our Plugins"
+msgstr "Nos extensions"
+
+#: admin/includes/settings/save.php:10
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: admin/includes/settings.php:47
+msgid "Upload Image Height"
+msgstr "Hauteur de l’image à téléverser"
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Width"
+msgstr "Largeur de l’image à téléverser"
+
+#: instant-images.php:341 instant-images.php:342
+msgid "New"
+msgstr "Nouveau"
+
+#: instant-images.php:349
+msgid "image(s) found for"
+msgstr "image(s) trouvée(s) pour"
+
+#: admin/includes/settings.php:142
+msgid "Manage your media upload settings."
+msgstr "Gérer les réglages de téléversement de vos médias."
